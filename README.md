@@ -21,6 +21,14 @@ The dataset is from a mobile blood donation vehicle in Taiwan. The Blood Transfu
 
 <hr>
 
+### [Predicting Heart Disease with Random Forests](https://github.com/natasharavinand/Data-Exploration-and-Analysis-Projects/tree/main/Predicting%20Heart%20Disease%20with%20Random%20Forests)
+
+This project was a web application deployment of a random forest classifier model to predict heart disease in patients using medical data. The data is pulled from the [UCI Heart Disease dataset on Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci). The web app is built using Streamlit. Selected columns include information on age, sex, chest pain, blood pressure, cholestrol, and blood sugar. 
+
+The web deployment, ran in `app.py`, allows the users to input their own values in order to view whether they are likely to suffer from heart disease given their own health parameters. 
+
+<hr>
+
 ### [Successful App Profiles for the Google Play and App Store Markets](https://github.com/natasharavinand/Data-Exploration-Projects/blob/main/Successful%20App%20Profiles%20for%20the%20Google%20Play%20and%20App%20Store%20Markets/Successful%20App%20Profiles%20for%20the%20Google%20Play%20and%20App%20Store%20Markets.pdf)
 
 In this project, I attempted to find what creates a profitable app – specifically, what traits are common in apps that maximize user engagement with advertisements and generate profit. I used Python for data exploration, cleaning, and analysis. 
