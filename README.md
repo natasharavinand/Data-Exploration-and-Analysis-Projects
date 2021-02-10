@@ -1,6 +1,6 @@
-# Data Exploration Projects
+# Data Exploration and Analysis Projects
 
-This is a repository of some personal data exploration projects. These projects – conducted in Python – were done in Jupyter Notebooks to provide ease of viewing and reproducibility.
+This is a repository of some personal data exploration and analysis projects. These projects – conducted in Python – were done in Jupyter Notebooks to provide ease of viewing and reproducibility.
 
 ## Table of Contents
 
