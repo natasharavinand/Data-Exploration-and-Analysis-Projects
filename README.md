@@ -41,9 +41,9 @@ I went through 3 stages in the process: exploring the data, cleaning the data, a
 
 <hr>
 
-### [Analyzing Data Between NYC High Schools and SAT Results](https://github.com/natasharavinand/Data-Exploration-Projects-in-Python/blob/master/Analyzing%20Data%20Between%20NYC%20High%20Schools%20and%20SAT%20Performance.pdf)
+### [Analyzing Data Between NYC High Schools and SAT Results](https://github.com/natasharavinand/Data-Exploration-and-Analysis-Projects/blob/main/Analyzing%20Data%20Between%20NYC%20High%20Schools%20and%20SAT%20Results/Analyzing%20Data%20Between%20NYC%20High%20Schools%20and%20SAT%20Results.pdf)
 
-The Scholastic Apitude Test, or SAT, is a standardized test for college entrance that millions of high-school students take each year. However, the SAT has long been under scrutiny – there have been many critics voicing the low efficacy of these tests in predicting who can succeed in college level coursework. In addition, many critics have commented on how the tests are unfair to certain groups with less resources, dispelling the meritocracy claims standardized tests make.
+The Scholastic Aptitude Test, or SAT, is a standardized test for college entrance that millions of high-school students take each year. However, the SAT has long been under scrutiny – there have been many critics voicing the low efficacy of these tests in predicting who can succeed in college level coursework. In addition, many critics have commented on how the tests are unfair to certain groups with less resources, dispelling the meritocracy claims standardized tests make.
 
 In this project, I analyzed the correlations between demographics (across race and gender specifically) and SAT scores. I also focused on New York City public high schools, because of their diversity and accessibility of data from the City of New York. 
 
